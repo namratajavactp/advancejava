@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<!DOCTYPE web-app PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN" "http://java.sun.com/dtd/web-app_2_3.dtd">
+<web-app>
+
+     <servlet>
+		<servlet-name>InitTestServlet</servlet-name> <!-- this is logical name of ur servlet -->
+		<jsp-file>initTest.jsp</jsp-file><!-- this is actual name of ur servlet class -->
+		<init-param>
+		  <param-name>region</param-name>
+		  <param-value>North America</param-value>
+		</init-param>
+     </servlet>
+     <servlet-mapping>
+		<servlet-name>InitTestServlet</servlet-name><!-- should be same in both servlet and servlet mapping -->
+		<url-pattern>/initTest.jsp</url-pattern><!-- this is the published name of ur name -->
+     </servlet-mapping>
+
+</web-app>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<session version="1.0">
+<refactoring comment="Move 1 elements(s) to 'WebContent'&#13;&#10;- Original project: 'ShoppingCart'&#13;&#10;- Destination element: 'WebContent'&#13;&#10;- Original element: 'index.html'" description="Move file" element1="index.html" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1347514715437" target="/ShoppingCart/WebContent" units="0" version="1.0"/>
+</session>

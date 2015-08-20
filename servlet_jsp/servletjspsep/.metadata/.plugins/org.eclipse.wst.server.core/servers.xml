@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v5.5 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="9_11_12_10_26_AM2" name="Tomcat v5.5 Server at localhost" runtime-id="Apache Tomcat v5.5" server-type="org.eclipse.jst.server.tomcat.55" server-type-id="org.eclipse.jst.server.tomcat.55" testEnvironment="true" timestamp="36">
+    <list key="enabled-optional-publish-tasks" value0="9_11_12_10_26_AM2|Update context root for Web module JspEx" value1="9_11_12_10_26_AM2|Update context root for Web module AddressBean"/>
+    <list key="modules" value0="JspEx::org.eclipse.jst.j2ee.server:JspEx::jst.web::2.4" value1="AddressBean::org.eclipse.jst.j2ee.server:AddressBean::jst.web::2.4"/>
+  </server>
+</servers>
