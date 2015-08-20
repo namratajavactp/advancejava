@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<session version="1.0">
-<refactoring comment="Copy 1 elements(s) to 'ShoppingCart'&#13;&#10;- Original project: 'HelloWorld'&#13;&#10;- Destination element: 'ShoppingCart'&#13;&#10;- Original element: 'index.html'" description="Copy file" element1="WebContent/index.html" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" log="WebContent/index.html&#9;true&#9;false" policy="org.eclipse.jdt.ui.copyResources" stamp="1347514706203" target="/ShoppingCart" units="0" version="1.0"/>
-</session>

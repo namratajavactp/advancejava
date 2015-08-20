@@ -1,4 +1,0 @@
-#Tue Sep 11 10:28:10 GMT+05:30 2012
-module-start-timeout=300000
-runtimes=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<runtimes>\r\n  <runtime id\="Apache Tomcat v5.5" location\="C\:/Program Files/Apache Software Foundation/Tomcat 5.5" name\="Apache Tomcat v5.5" runtime-type-id\="org.eclipse.jst.server.tomcat.runtime.55" timestamp\="0"/>\r\n</runtimes>\r\n
-eclipse.preferences.version=1

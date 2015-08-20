@@ -1,6 +1,0 @@
-<html><body>
-<%@ taglib uri="http://java.sun.com/jstl/core_rt" prefix="c" %>
-<b>Expression Language variable </b>
-<c:set var="x" value="${4*4}" />
-${x}
-</body></html>
